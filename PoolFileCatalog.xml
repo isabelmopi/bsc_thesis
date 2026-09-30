@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By POOL -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+  <File ID="5F2356D3-E3AA-9F47-900E-1F9AB2BA3450">
+    <physical>
+      <pfn filetype="ROOT_All" name="/afs/cern.ch/work/a/aknue/public/RivetInputFiles/TestFile_ttbar/user.aknue.601229.PhPy8EG_A14_ttbar_hdamp258p75_SingleLep__Bachelor_EXT0/user.aknue.49902458.EXT0._000004.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="2CA2EEC5-8812-A649-9DE8-78A644B443EB">
+    <physical>
+      <pfn filetype="ROOT_All" name="/afs/cern.ch/work/a/aknue/public/RivetInputFiles/TestFile_ttbar/user.aknue.601229.PhPy8EG_A14_ttbar_hdamp258p75_SingleLep__Bachelor_EXT0/user.aknue.49902458.EXT0._000005.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="09C328AB-6469-D643-9FF2-C557BD7F5F71">
+    <physical>
+      <pfn filetype="ROOT_All" name="/afs/cern.ch/work/a/aknue/public/RivetInputFiles/TestFile_ttbar/user.aknue.601229.PhPy8EG_A14_ttbar_hdamp258p75_SingleLep__Bachelor_EXT0/user.aknue.49902458.EXT0._000001.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="BA287545-F78C-3C45-8F0C-1B189F1CC06B">
+    <physical>
+      <pfn filetype="ROOT_All" name="/afs/cern.ch/work/a/aknue/public/RivetInputFiles/TestFile_ttbar/user.aknue.601229.PhPy8EG_A14_ttbar_hdamp258p75_SingleLep__Bachelor_EXT0/user.aknue.49902458.EXT0._000002.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="091D00F3-2A3D-0A4E-BF2E-A35A232EC8CE">
+    <physical>
+      <pfn filetype="ROOT_All" name="/afs/cern.ch/work/a/aknue/public/RivetInputFiles/TestFile_ttbar/user.aknue.601229.PhPy8EG_A14_ttbar_hdamp258p75_SingleLep__Bachelor_EXT0/user.aknue.49902458.EXT0._000003.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="796B1F30-878F-374F-9CBA-D82BCDBAAF5A">
+    <physical>
+      <pfn filetype="ROOT_All" name="root://eosuser.cern.ch//eos/user/i/imolinos/user.aknue.701229.PhPy8EG_A14_ttbar_hdamp258p75_mtt_600_SingleLep__Bachelor3_EXT0/user.aknue.50411546.EXT0._000018.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="CEF8D7AD-051C-5C46-8A1A-EEA4E0E1E34A">
+    <physical>
+      <pfn filetype="ROOT_All" name="root://eosuser.cern.ch//eos/user/i/imolinos/user.aknue.701229.PhPy8EG_A14_ttbar_hdamp258p75_mtt_600_SingleLep__Bachelor3_EXT0/user.aknue.50411546.EXT0._000127.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="CBF43CB1-BB94-1544-ACC6-4D4254A3AC3E">
+    <physical>
+      <pfn filetype="ROOT_All" name="root://eosuser.cern.ch//eos/user/i/imolinos/user.aknue.701229.PhPy8EG_A14_ttbar_hdamp258p75_mtt_600_SingleLep__Bachelor3_EXT0/user.aknue.50411546.EXT0._000152.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="37E06377-DD90-E14C-B8AE-DCB872A099DD">
+    <physical>
+      <pfn filetype="ROOT_All" name="root://eosuser.cern.ch//eos/user/i/imolinos/user.aknue.701229.PhPy8EG_A14_ttbar_hdamp258p75_mtt_600_SingleLep__Bachelor3_EXT0/user.aknue.50411546.EXT0._000197.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="EF36EEA4-9715-524A-88B5-1A8F7E33AFCE">
+    <physical>
+      <pfn filetype="ROOT_All" name="root://eosuser.cern.ch//eos/user/i/imolinos/user.aknue.701229.PhPy8EG_A14_ttbar_hdamp258p75_mtt_600_SingleLep__Bachelor3_EXT0/user.aknue.50411546.EXT0._000267.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="48B95A0A-07A0-6243-A3EF-B0540DD931CA">
+    <physical>
+      <pfn filetype="ROOT_All" name="root://eosuser.cern.ch//eos/user/i/imolinos/user.aknue.701229.PhPy8EG_A14_ttbar_hdamp258p75_mtt_600_SingleLep__Bachelor3_EXT0/user.aknue.50411546.EXT0._000273.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="DC17313E-8DCF-F84E-8DF8-90BEFB836A16">
+    <physical>
+      <pfn filetype="ROOT_All" name="root://eosuser.cern.ch//eos/user/i/imolinos/user.aknue.701229.PhPy8EG_A14_ttbar_hdamp258p75_mtt_600_SingleLep__Bachelor3_EXT0/user.aknue.50411546.EXT0._000291.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="03E5E942-8F12-0D4B-9627-2AE6AA15AF61">
+    <physical>
+      <pfn filetype="ROOT_All" name="root://eosuser.cern.ch//eos/user/i/imolinos/user.aknue.701229.PhPy8EG_A14_ttbar_hdamp258p75_mtt_600_SingleLep__Bachelor3_EXT0/user.aknue.50411546.EXT0._000372.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="C6A19A95-7B24-BB46-9AD9-394A280996D7">
+    <physical>
+      <pfn filetype="ROOT_All" name="root://eosuser.cern.ch//eos/user/i/imolinos/user.aknue.701229.PhPy8EG_A14_ttbar_hdamp258p75_mtt_600_SingleLep__Bachelor3_EXT0/user.aknue.50411546.EXT0._000405.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="EFBE7625-6499-B34D-8E9A-E4B70F0A2630">
+    <physical>
+      <pfn filetype="ROOT_All" name="root://eosuser.cern.ch//eos/user/i/imolinos/user.aknue.701229.PhPy8EG_A14_ttbar_hdamp258p75_mtt_600_SingleLep__Bachelor3_EXT0/user.aknue.50411546.EXT0._000485.test.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+</POOLFILECATALOG>
